@@ -1,0 +1,32 @@
+﻿.tr-buttons {
+    display: flex;
+    flex-direction: row!important;
+    height: 3%;
+}
+.tr-buttons a{
+    margin: 0 2px;
+}
+
+.tabs-container {
+    display: flex !important;
+}
+
+.tab {
+    width: 50% !important;
+}
+
+.tab-right {
+    justify-content: flex-end !important;
+}
+.tab li a{
+    color: #00000091;
+}
+.list-group{
+    margin-top:3%;
+}
+.invisible{
+    display:none;
+}
+.visible{
+    display: inline-block !important;
+}

@@ -1,0 +1,12 @@
+﻿.form-outer {
+    padding: 7% 15%;
+}
+
+.form-buttons {
+    justify-content: space-around;
+    display: flex;
+    margin-top: 3%;
+}
+.form-buttons button , .form-buttons a {
+    width: 40%;
+}
